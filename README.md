@@ -51,5 +51,3 @@ Our project is a **Language Translating App** designed to provide real-time and 
     - Ensure the app is responsive and works well across a variety of screen sizes and Android versions.
 
 ---
-
-**Note**: This is the plan for the initial stages of the app. Future sprints will focus on adding more advanced features such as offline translation, camera-based translations, and enhanced AI for context-based translations.
